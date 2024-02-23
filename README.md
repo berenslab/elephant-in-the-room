@@ -11,7 +11,7 @@ This repository holds the code to reproduce the analysis in [Lause, Berens & Kob
 
 To reproduce our analysis, follow the steps below. We assume you have `git` and `conda` installed.
 
-### Install requirements
+### Install
 
 - Clone this repository.
 ```
