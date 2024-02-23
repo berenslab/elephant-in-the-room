@@ -1,6 +1,13 @@
-## The art of seeing the elephant in the room: 2D embeddings of single-cell data do make sense
+## The art of seeing the elephant in the room: <br/> 2D embeddings of single-cell data do make sense
+<p align="center">
+<img src="results/figures/embeddings_combined.png" alt="Main figure" width="600"/>
+</p>
 
-This repository holds the code to reproduce the analysis in [Lause, Berens & Kobak (2024) preprint ADD LINK](https://www.biorxiv.org) and [supplementary figures](results/figures).
+
+This repository holds the code to reproduce the analysis in [Lause, Berens & Kobak (2024) preprint ADD LINK](https://www.biorxiv.org) and shows [main and supplementary figures](results/figures). <p align="center">
+
+</p>
+
 
 To reproduce our analysis, follow the steps below. We assume you have `git` and `conda` installed.
 
