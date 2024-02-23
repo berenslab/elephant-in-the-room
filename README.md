@@ -32,7 +32,7 @@ cd ..
 conda env create -f src/picasso/env/env3.7_LINUX.yml
 ```
 
-- Activate the `picasso_env` environment and install our Picasso fork in it.
+- From the main folder of the `elephant-in-the-room` repo, activate the `picasso_env` environment and install our Picasso fork with `pip`.
 ```
 conda activate picasso_env
 pip install -e .
