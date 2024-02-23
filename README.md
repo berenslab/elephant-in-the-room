@@ -73,6 +73,7 @@ We used `conda 23.11.0` on a recent laptop with 16GB RAM running `LINUX 6.5.0-18
 
 [Notebook 1](scripts/01_prepare_data.ipynb) and [notebook 3](03_compute_picasso_embedding.ipynb) use code adapted from the github repository [CP_2023](https://github.com/pachterlab/CP_2023) by Chari & Pachter, which is subject to the following licence:
 
+```
 BSD 2-Clause License
 
 Copyright (c) 2021, Pachter Lab
@@ -98,4 +99,5 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
 
