@@ -68,3 +68,34 @@ jupyter lab
 ### System information
 
 We used `conda 23.11.0` on a recent laptop with 16GB RAM running `LINUX 6.5.0-18-generic #18~22.04.1-Ubuntu`. See [environment.yml](environment.yml) for more information on the analysis environment, and [env3.7_LINUX.yml](https://github.com/berenslab/picasso/blob/main/env/env3.7_LINUX.yml) for more information on the Picasso environment.
+
+### Copyright information
+
+[Notebook 1](scripts/01_prepare_data.ipynb) and [notebook 3](03_compute_picasso_embedding.ipynb) use code adapted from the github repository [CP_2023](https://github.com/pachterlab/CP_2023) by Chari & Pachter, which is subject to the following licence:
+
+BSD 2-Clause License
+
+Copyright (c) 2021, Pachter Lab
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
