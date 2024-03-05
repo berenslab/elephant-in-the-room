@@ -1,6 +1,6 @@
 ## The art of seeing the elephant in the room: <br/> 2D embeddings of single-cell data do make sense
 <p align="center">
-<img src="results/figures/embeddings_combined.png" alt="Main figure" width="600"/>
+<img src="results/figures/main/embeddings_combined.png" alt="Main figure" width="600"/>
 </p>
 
 
