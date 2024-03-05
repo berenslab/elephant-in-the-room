@@ -15,7 +15,7 @@
 
 ### Ex Utero dataset: Simulated vs. real counts
 
-<img src="supplementary/exutero_simulation_per_cluster_distributions.png" alt="Simulated vs. real counts" width="600"/>
+<img src="supplementary/exut-sim-theta-10-real-seqdepths_real_vs_sim_cluster_distributions.png" alt="Simulated vs. real counts" width="600"/>
 
 ### Additional dataset: MNIST
 
