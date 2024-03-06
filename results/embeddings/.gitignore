@@ -6,3 +6,5 @@ mnist_adata_all_embeddings.h5ad
 mnist_adata_standard_embeddings.h5ad
 smartseq_adata_all_embeddings.h5ad
 smartseq_adata_standard_embeddings.h5ad
+exut-sim-theta-10-real-seqdepths_adata_all_embeddings.h5ad
+exut-sim-theta-10-real-seqdepths_adata_standard_embeddings.h5ad
