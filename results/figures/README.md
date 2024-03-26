@@ -25,7 +25,7 @@
 
 <img src="supplementary/chari_pachter_metrics_l1_vs_l2.png" alt="L1 vs L2" width="400"/>
 
-### Using the Chari & Pachter scaling step
+### Using the Chari & Pachter standardization step
 
-<img src="supplementary/metrics_scaled_L2.png" alt="Chari&Pachter scaling" width="400"/>
+<img src="supplementary/metrics_scaled_L2.png" alt="Chari&Pachter standardization" width="400"/>
 
