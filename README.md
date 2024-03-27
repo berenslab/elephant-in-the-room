@@ -4,7 +4,7 @@
 </p>
 
 
-This repository holds the code to reproduce the analysis in our [Lause, Berens & Kobak (2024) preprint (Link will follow soon)](https://www.biorxiv.org) and contains [main and supplementary figures](results/figures). <p align="center">
+This repository holds the code to reproduce the analysis in our [Lause, Berens & Kobak (2024) preprint (Link will follow soon)](https://www.biorxiv.org) and contains the [main and supplementary figures](results/figures). <p align="center">
 
 </p>
 
