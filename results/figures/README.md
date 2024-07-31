@@ -29,3 +29,7 @@
 
 <img src="supplementary/metrics_scaled_L2.png" alt="Chari&Pachter standardization" width="400"/>
 
+### Using class-balanced accuracy
+
+<img src="supplementary/metrics_balanced_accuracy.png" alt="Balanced accuracy" width="400"/>
+
